@@ -828,6 +828,7 @@ transform: rotate(-90deg);
     max-width: 830px;
     position: relative;
     height: 100%;
+    margin-left: 15px;
 }
 .composition__link-text{
     padding-left: 25px;
